@@ -1,0 +1,33 @@
+1:"$Sreact.fragment"
+2:"/bebeaura-lp-preview/_next/static/chunks/1vjucdpmt1771.js"
+3:I[91825,["$2"],"CartProvider"]
+4:I[90743,["$2"],"default"]
+5:I[96700,["$2"],"default"]
+12:"ViewportBoundary"
+13:I[90944,["$2"],"$12"]
+14:"MetadataBoundary"
+15:I[90944,["$2"],"$14"]
+16:"$Sreact.suspense"
+17:I[9492,["$2"],"IconMark"]
+:HL["/bebeaura-lp-preview/_next/static/chunks/1oj-3rl3tpmxz.css","style"]
+7:X
+a:X
+a:C
+d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","header",null,{"className":"flex h-[70px] items-center justify-center border-b border-line lg:h-20","children":["$","a",null,{"href":"/bebeaura-lp-preview/","className":"font-serif text-[22px] font-medium tracking-[0.2em] lg:text-[28px]","children":"BEBEAURA"}]}],["$","main",null,{"className":"mx-auto max-w-[860px] px-4 py-14 lg:py-20","children":[["$","h1",null,{"className":"text-[22px] font-normal tracking-[0.08em] lg:text-[26px]","children":"プライバシーポリシー"}],"$undefined",[["$","p","【要差替】個人情報の取扱いについて記載",{"className":"mt-6 text-[13px] leading-[1.9]","children":"【要差替】個人情報の取扱いについて記載"}]]]}],["$","footer",null,{"className":"border-t border-line bg-white px-4 pb-28 pt-14 lg:px-10 lg:pb-14","children":[["$","div",null,{"className":"mx-auto grid max-w-[1200px] gap-10 lg:grid-cols-[1fr_auto_auto] lg:gap-20","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-serif text-[28px] font-medium tracking-[0.2em]","children":"BEBEAURA"}],["$","p",null,{"className":"mt-2 text-[12px] tracking-[0.12em] text-ink-soft","children":"美しさで箔をつける"}]]}],["$","nav",null,{"aria-label":"フッターメニュー","children":["$","ul",null,{"className":"space-y-3 font-serif text-[15px] tracking-[0.06em]","children":[["$","li","Products",{"children":["$","a",null,{"href":"#","className":"hover:opacity-60","children":"Products"}]}],["$","li","About",{"children":["$","a",null,{"href":"#","className":"hover:opacity-60","children":"About"}]}],["$","li","FAQ",{"children":["$","a",null,{"href":"#faq","className":"hover:opacity-60","children":"FAQ"}]}],["$","li","Contact",{"children":["$","a",null,{"href":"#","className":"hover:opacity-60","children":"Contact"}]}]]}]}],["$","nav",null,{"aria-label":"規約・法定表記","children":["$","ul",null,{"className":"space-y-3 text-[12px]","children":[["$","li","/legal/tokushoho",{"children":["$","a",null,{"href":"/bebeaura-lp-preview/legal/tokushoho/","className":"hover:opacity-60","children":"特定商取引法に基づく表記"}]}],["$","li","/legal/privacy",{"children":["$","a",null,{"href":"/bebeaura-lp-preview/legal/privacy/","className":"hover:opacity-60","children":"プライバシーポリシー"}]}],["$","li","/legal/terms",{"children":["$","a",null,{"href":"/bebeaura-lp-preview/legal/terms/","className":"hover:opacity-60","children":"利用規約"}]}],["$","li","/legal/cancel-policy",{"children":["$","a",null,{"href":"/bebeaura-lp-preview/legal/cancel-policy/","className":"hover:opacity-60","children":"返品・キャンセルポリシー"}]}]]}]}]]}],["$","div",null,{"className":"mx-auto mt-12 max-w-[1200px] border-t border-line pt-6 text-[11px] text-ink-soft","children":["$Le","$Lf"]}]]}]],null,"$L10"]}],"p":"$@11","v":null,"s":"$7"}}]]
+b:[["children",{"s":{"n":"slug","t":"d","k":"privacy","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@c","v":"$a","s":"$7"},"c":"$Qd"}]]
+8:[["children",{"s":"legal","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@9","v":"$a","s":"$7"},"c":"$Qb"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/bebeaura-lp-preview/_next/static/chunks/1oj-3rl3tpmxz.css","precedence":"next"}],["$","script","script-0",{"src":"/bebeaura-lp-preview/_next/static/chunks/1vjucdpmt1771.js","async":true}]],["$","html",null,{"lang":"ja","className":"PwEnEG_variable","children":["$","body",null,{"className":"min-h-dvh","children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]}]]}],"p":"$@6","v":null,"s":"$7"},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ffffff"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$16",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"プライバシーポリシー | BEBEAURA"}],["$","meta","1",{"name":"description","content":"【要差替】BEBEAURA 公式オンラインストアの説明文"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/bebeaura-lp-preview/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L17","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@18","v":null,"s":"$7"}},"a":"$@19","u":"$@1a","b":"sC0JBMlU1lPihFNXakG5v"}
+1b:I[90944,["$2"],"OutletBoundary"]
+e:["$","p",null,{"children":["運営：","【要差替】運営会社名"]}]
+f:["$","p",null,{"className":"mt-1 font-serif tracking-[0.06em]","children":["© ","BEBEAURA"]}]
+10:["$","$L1b",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]
+7:300
+1c:null
+1a:true
+7:C
+19:0
+c:"$undefined"
+9:"$undefined"
+6:"$undefined"
+18:"$undefined"
+11:"$undefined"
